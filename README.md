@@ -5,6 +5,6 @@ A data warehouse with star schema is built, consists of single fact table - Orde
 
 2. Data is organized and manipulated to allow easy access to the critical information to meet the specific business and goals. <br>
 
-3. Mongodb is used in this project. 
+3. Mongodb is used in this project. Data warehouse is attached on "TDM7111.rar" and Final report 
 
 
